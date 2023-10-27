@@ -20,7 +20,6 @@ html{
 }
 .container{
     padding: 10px 10%;
-    background: linear-gradient(135deg, #D781FF,#24F5CC);
 }
 nav{
     display: flex;
